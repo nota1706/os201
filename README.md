@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Thalia's Repository for OS Subject
 
 You can use the [editor on GitHub](https://github.com/nota1706/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
