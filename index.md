@@ -10,4 +10,4 @@
 > Github page dibuat untuk memenuhi syarat dan kewajiban saya sebagai peserta mata kuliah dalam melaksanakan UAS
 
 
-Klik tautan ini untuk mengetahui lebih lanjut terkait pembelajaran [Sistem Operasi] di Fasilkom UI(./url,md).
+Klik tautan ini untuk mengetahui lebih lanjut terkait pembelajaran [Sistem Operasi] di Fasilkom UI(./url.md).
