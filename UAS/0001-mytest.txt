@@ -1,4 +1,3 @@
-Script started on Tue 02 Jun 2020 05:31:15 PM WIB
 thalia.teresa@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 nota1706
