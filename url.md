@@ -1,4 +1,6 @@
+---
 permalink: /URLs/
+---
 
 ### Sumber-sumber pembelajaran Sistem Operasi
 
