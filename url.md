@@ -1,3 +1,7 @@
+---
+permalink: /URLs/
+---
+
 ### Sumber-sumber pembelajaran Sistem Operasi
 
 *   [os.vlsm.org](os.vlsm.org)
